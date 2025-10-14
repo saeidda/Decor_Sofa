@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+
+.border-12{
+    border: 14px ridge #2e2e2e;
+}
+
+.rounded-5xl{
+    border-radius: 50px;
+}
